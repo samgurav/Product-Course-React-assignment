@@ -1,0 +1,16 @@
+{
+  "form": [
+    {
+      "name": "samiksha",
+      "email": "guravsamiksha17@gmail.com",
+      "enquiry": "hello",
+      "id": 1
+    },
+    {
+      "name": "sam",
+      "email": "sam@gmail.com",
+      "enquiry": "hello",
+      "id": 2
+    }
+  ]
+}

@@ -1,23 +1,49 @@
-import logo from './logo.svg';
+import React, { Suspense, lazy } from 'react';
 import './App.css';
+
+import { BrowserRouter , Routes,Route} from "react-router-dom";
+
+import Home from './components/Home'
+
+import Product from './components/Product';
+import Course from './components/Course';
+
+import EnquiryForm from './components/EnquiryForm';
+import UserEnquiry from './components/UserEnquiry';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    
+      
+      <BrowserRouter>
+   
+      <Routes>
+        <Route path="/" element={<Home/>}/>
+     
+        <Route path="/product" element={<Product/>}/>
+        <Route path="/course" element={<Course/>}/>
+        <Route path="/form" element={<EnquiryForm/>}/>
+        <Route path="/enquiry" element={<UserEnquiry/>}/>
+       
+      </Routes>
+     
+      
+      </BrowserRouter>
+     
+    
+      
+
+     
+      
+    
+     
+     
+    
+
+     
+      
+    
     </div>
   );
 }

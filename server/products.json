@@ -1,0 +1,29 @@
+{
+  "products":
+[ 
+  {"id": 1,"pname":"mobile","price":18000,"quantity":2,"images": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YW5kcm9pZCUyMHBob25lfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"},
+  {"id": 2,"pname":"laptop","price":2345,"quantity":4,"images": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bGFwdG9wc3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"},
+  {"id": 3,"pname":"TV","price":2345,"quantity":4,"images": "https://images.samsung.com/is/image/samsung/in-full-hd-tv-te50fa-ua43te50fakxxl-frontblack-231881877?$720_576_PNG$"},
+  {"id": 4,"pname":"washing machine","price":2345,"quantity":4,"images": "https://media.croma.com/image/upload/v1615898731/Croma%20Assets/Large%20Appliances/Washers%20and%20Dryers/Images/233534_wrvcp3.png"},
+  {"id": 5,"pname":"mobile","price":2345,"quantity":4,"images": "https://static.digit.in/default/9b801f10ae31faae1bc2777e55f45550922706aa.jpeg?tr=w-1200"},
+  {"id": 6,"pname":"Laptop","price":2345,"quantity":4,"images": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bGFwdG9wc3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"},
+  {"id": 7,"pname":"mobile","price":2345,"quantity":4,"images": "https://images.unsplash.com/photo-1523206489230-c012c64b2b48?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fG1vYmlsZSUyMHBob25lfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"},
+  {"id": 8,"pname":"washing machine","price":2345,"quantity":4,"images": "https://media.croma.com/image/upload/v1615898731/Croma%20Assets/Large%20Appliances/Washers%20and%20Dryers/Images/233534_wrvcp3.png"},
+  {"id": 9,"pname":"laptop","price":2345,"quantity":4,"images": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bGFwdG9wc3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"},
+  {"id": 10,"pname":"washing machine","price":2345,"quantity":4,"images": "https://media.croma.com/image/upload/v1615898731/Croma%20Assets/Large%20Appliances/Washers%20and%20Dryers/Images/233534_wrvcp3.png"},
+  {"id": 11,"pname":"mobile","price":2345,"quantity":4,"images": "https://images.unsplash.com/photo-1523206489230-c012c64b2b48?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fG1vYmlsZSUyMHBob25lfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"},
+  {"id": 12,"pname":"laptop","price":2345,"quantity":4,"images": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bGFwdG9wc3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"},
+  {"id": 13,"pname":"mobile","price":18000,"quantity":2,"images": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YW5kcm9pZCUyMHBob25lfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"},
+  {"id": 14,"pname":"laptop","price":2345,"quantity":4,"images": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bGFwdG9wc3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"},
+  {"id": 15,"pname":"TV","price":2345,"quantity":4,"images": "https://images.samsung.com/is/image/samsung/in-full-hd-tv-te50fa-ua43te50fakxxl-frontblack-231881877?$720_576_PNG$"},
+  {"id": 16,"pname":"washing machine","price":2345,"quantity":4,"images": "https://media.croma.com/image/upload/v1615898731/Croma%20Assets/Large%20Appliances/Washers%20and%20Dryers/Images/233534_wrvcp3.png"},
+  {"id": 17,"pname":"mobile","price":2345,"quantity":4,"images": "https://static.digit.in/default/9b801f10ae31faae1bc2777e55f45550922706aa.jpeg?tr=w-1200"},
+  {"id": 18,"pname":"Laptop","price":2345,"quantity":4,"images": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bGFwdG9wc3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"},
+  {"id": 19,"pname":"mobile","price":2345,"quantity":4,"images": "https://images.unsplash.com/photo-1523206489230-c012c64b2b48?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fG1vYmlsZSUyMHBob25lfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"},
+  {"id": 20,"pname":"washing machine","price":2345,"quantity":4,"images": "https://media.croma.com/image/upload/v1615898731/Croma%20Assets/Large%20Appliances/Washers%20and%20Dryers/Images/233534_wrvcp3.png"},
+  {"id": 21,"pname":"laptop","price":2345,"quantity":4,"images": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bGFwdG9wc3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"},
+  {"id": 22,"pname":"washing machine","price":2345,"quantity":4,"images": "https://media.croma.com/image/upload/v1615898731/Croma%20Assets/Large%20Appliances/Washers%20and%20Dryers/Images/233534_wrvcp3.png"},
+  {"id": 23,"pname":"mobile","price":2345,"quantity":4,"images": "https://images.unsplash.com/photo-1523206489230-c012c64b2b48?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fG1vYmlsZSUyMHBob25lfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"},
+  {"id": 24,"pname":"laptop","price":2345,"quantity":4,"images": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bGFwdG9wc3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"}
+
+]}

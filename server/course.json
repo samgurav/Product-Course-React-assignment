@@ -1,0 +1,45 @@
+{
+  "courses":[
+    {
+      "id":1,
+      "course":"Accouting",
+      "campus":"Main Campus",
+      "type":"bussiness",
+      "Programs": ["General Accounting(Bachlor of science)", "Public Accounting(Bachlor of science)", "Accounting(minor)"],
+        "img":"./Images/1.jpg"
+      }, {
+        "id":2,
+        "course":"Addiction Studies",
+        "campus":"Main Campus",
+        "type":"Social and Behavioral Sciences",
+        "Programs": ["General Accounting(Bachlor of science)", "Public Accounting(Bachlor of science)", "Accounting(minor)"],
+          "img":"./Images/2.jpg"
+        },
+  {
+      "id":3,
+      "course":"Aggricultural Science",
+      "campus":"Western Campus",
+      "type":"Western Colorado Community College",
+      "Programs":["agrricultural Studies"],
+      "img":"./Images/3.jpg"
+    },
+    {
+      "id":4,
+      "course":"Animation,Film,Photography and motion design",
+      "campus":"Main Campus",
+      "type":"bussiness",
+      "Programs": ["General Accounting(Bachlor of science)", "Public Accounting(Bachlor of science)", "Accounting(minor)"],
+        "img":"./Images/4.jpg"
+      },
+      {
+        "id":4,
+        "course":"Information and Communication Technology",
+        "campus":"Main Campus",
+        "type":"bussiness",
+        "Programs": ["General Accounting(Bachlor of science)", "Public Accounting(Bachlor of science)", "Accounting(minor)"],
+          "img":"./Images/5.png"
+        }
+    
+
+  ]
+}
